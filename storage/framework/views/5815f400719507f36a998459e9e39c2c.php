@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\SHCN_Hackathon\SHCN_Hackathon\hackathon\resources\views/landing.blade.php ENDPATH**/ ?>
